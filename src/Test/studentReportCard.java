@@ -1,3 +1,5 @@
+package Test;
+
 public class studentReportCard {
     public static void main(String[] args) {
         int finalMedia = 6;
